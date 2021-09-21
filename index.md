@@ -9,6 +9,7 @@ Hi! I am a senior student pursuing a B.S. in Mechanical Engineering at Texas A&M
 
 I am currently looking for a full time mechanical engineer position starting in early 2022. Think we should work together? I'd love to hear from you!
 
+![C4FDAEF3-F270-426E-9D9C-D6D5649CFCE4](https://user-images.githubusercontent.com/40779089/134235785-ea6ffbf2-8516-4a2c-a0f4-7cbe48052bde.JPEG)
 
 ```markdown
 Syntax highlighted code block

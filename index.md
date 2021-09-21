@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/MelodyMLyu/Projects/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Melody Lyu
+### About me
+Hi! I am a senior student pursuing a B.S. in Mechanical Engineering at Texas A&M University. I have skills and knowledge essential for Machine Learning, data analysis, FEA, topology optimization utilizing CAE tools (such as HyperWorks suite), and Hydrogen Fuel Cell Vehicles which can be supported by my academic courses and co-op experience at Toyota R&D. I have also developed the strong interpersonal and communication skills required to succeed. With my outgoing personality, I bring people together and encourage teammates to innovate and thrive. Throughout all of my experiences, I have used my dedication to efficient, creative problem solving to effectively manage competing demands.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently looking for a full time mechanical engineer position starting in early 2022. Think we should work together? I'd love to hear from you!
+
 
 ```markdown
 Syntax highlighted code block
